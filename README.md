@@ -1,2 +1,2 @@
 # Robotica
-Arduino
+Arduino e Raspberry PI  e PICO
